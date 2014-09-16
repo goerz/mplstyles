@@ -1,0 +1,4 @@
+mplstyles
+=========
+
+Matplotlib style files
